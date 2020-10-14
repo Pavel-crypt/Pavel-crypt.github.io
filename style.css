@@ -228,3 +228,14 @@ footer {
 .italic {
   font-style: italic;
 }
+
+
+.petuh {
+  color : red;
+  font-size: 12px;
+display: none;
+}
+
+h1.ss:hover .petuh{
+display: inline;
+}
