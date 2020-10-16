@@ -247,6 +247,7 @@ font-style: italic;
 background-color : red; 
 }
 
-.mur {
-color : rgb(0, 238, 255);
-}
+h1 .mur {
+  color : rgb(0, 238, 255);
+};
+
