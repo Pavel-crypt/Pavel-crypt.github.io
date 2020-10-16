@@ -239,3 +239,14 @@ display: none;
 h1.ss:hover .petuh{
 display: inline;
 }
+
+.cats {
+color : yellow;
+font-size: 30px;
+font-style: italic;
+background-color : red; 
+}
+
+.mur {
+color : rgb(0, 238, 255);
+}
