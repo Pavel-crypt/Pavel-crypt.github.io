@@ -241,13 +241,16 @@ display: inline;
 }
 
 .catss {
-color : yellow;
-font-size: 30px;
-font-style: italic;
-background-color : red; 
+  font-size: 30px;
+  font-style: italic;
+  background-color : red; 
 }
 
-h1 .mur {
+.cvet {
+  color : yellow;
+}
+
+.mur {
   color : rgb(0, 238, 255);
 }
 
