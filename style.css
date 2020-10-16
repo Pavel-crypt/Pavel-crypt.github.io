@@ -240,7 +240,7 @@ h1.ss:hover .petuh{
 display: inline;
 }
 
-.cats {
+.catss {
 color : yellow;
 font-size: 30px;
 font-style: italic;
@@ -249,5 +249,5 @@ background-color : red;
 
 h1 .mur {
   color : rgb(0, 238, 255);
-};
+}
 
